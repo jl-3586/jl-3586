@@ -8,7 +8,6 @@ Data Scientist & Engineer with expertise in machine learning, NLP, data engineer
 
 - Querying and transforming data using SQL, Python, and Spark.
 - Designing and implementing databases for scalable and efficient data management.
-
 - Engineering ELT pipelines to automate data ingestion, transformation, and reporting.
 - Developing dashboards and reports in Power BI and Tableau for data-driven decision-making.
 
