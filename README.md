@@ -1,7 +1,6 @@
 ## 🙋🏻‍♂️ Introducing Myself
 
-![Blue and White Simple Designer LinkedIn Banner (1)](https://github.com/user-attachments/assets/91b1a389-5161-4fee-89c0-3d3d13f347f8)
-
+![Blue and White Simple Designer LinkedIn Banner (1)](https://github.com/user-attachments/assets/df7118c9-f3b2-4b65-9105-3dae54057cdd)
 
 Hello, I'm Jiefei.
 Data Scientist & Engineer with expertise in machine learning, NLP, data engineering, and analytics.
@@ -13,7 +12,7 @@ Data Scientist & Engineer with expertise in machine learning, NLP, data engineer
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects]().
 
 Here is the link to my personal website.
 
