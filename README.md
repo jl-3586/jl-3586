@@ -12,15 +12,16 @@ Data Scientist & Engineer with expertise in machine learning, NLP, data engineer
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects]().
+Welcome to my portfolio, where I showcase my [projects](https://github.com/jl-3586/jiefei-porfolio).
 
 Here is the link to my personal website.
 
 ### 🛠️ Tools
 
 - Language: SQL, Python, R, Scala
-- Database:  PostgreSQL, MySQL, GCP Big Query
-- Cloud & Infrastructure: DBT, Microsoft Azure, Databricks
+- Database:  PostgreSQL, Oracle, GCP Big Query, Azure ADLS,  Snowflake
+- Cloud & Infrastructure: Microsoft Azure, Spark, Airflow, DBT
+- Machine Learning: scikit-learn, pytorch
 - Visualization: Tableau, Power BI
 
 ### 👋🏻 Connect with Me
